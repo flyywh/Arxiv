@@ -8,7 +8,7 @@
   * Monocular Depth Estimation with Hierarchical Fusion of Dilated CNNs and Soft-Weighted-Sum Inference (Arxiv2017), Bo Li, Yuchao Dai, Mingyi He.
   
 ## 08 August
-* MemNet [[PDF]]
+* MemNet [[PDF]](https://arxiv.org/pdf/1708.02209.pdf)
   * MemNet: A Persistent Memory Network for Image Restoration (ICCV2017), Ying Tai, Jian Yang, Xiaoming Liu, and Chunyan Xu.
-* Recurrent face parsing [[PDF]]
+* Recurrent face parsing [[PDF]](https://arxiv.org/pdf/1708.01936.pdf)
   * Face Parsing via Recurrent Propagation (BMVC2017), Sifei Liu, Jianping Shi, Ji Liang, and Ming-Hsuan Yang.
