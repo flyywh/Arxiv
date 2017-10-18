@@ -1,6 +1,14 @@
 # Arxiv
 
 ## 18 October
+* On Data-Driven Saak Transform [[PDF]](https://arxiv.org/pdf/1710.04176.pdf)
+  *  On Data-Driven Saak Transform , C.-C. Jay Kuo and Yueru Chen.
+* Deep Joint Image Filtering with Deep Convolutional Networks [[PDF]](https://arxiv.org/pdf/1710.04200.pdf)
+  *  Joint Image Filtering with Deep Convolutional Networks , Yijun Li, Jia-Bin Huang, Narendra Ahuja, and Ming-Hsuan Yang.
+* Self-Taught Support Vector Machine [[PDF]](https://arxiv.org/ftp/arxiv/papers/1710/1710.04450.pdf)
+  * Self-Taught Support Vector Machine, Parvin Razzaghi.
+* Deep Wavelet Super-resolution [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Guo_Deep_Wavelet_Prediction_CVPR_2017_paper.pdf)
+  * Deep Wavelet Prediction for Image Super-resolution (CVPR2017), Tiantong Guo, Hojjat Seyed Mousavi, Tiep Huu Vu, Vishal Monga.
 * Structure-Preserving Deep Image Super-resolution [[PDF]](https://arxiv.org/pdf/1707.08340.pdf)
   * Structure-Preserving Image Super-resolution via Contextualized Multi-task Learning (TMM2017), Yukai Shi, Keze Wang, Chongyu Chen, Li Xu, Liang Lin.
 * Deep Wavelet Super-resolution [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Guo_Deep_Wavelet_Prediction_CVPR_2017_paper.pdf)
