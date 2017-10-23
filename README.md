@@ -5,6 +5,8 @@
   *  Emerging from Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer (IEEE SPL 2017), Chongyi Li, Jichang Guo, Chunle Guo.
 * HDR image reconstruction  [[PDF]](https://arxiv.org/pdf/1710.07480.pdf)
   *  HDR image reconstruction from a single exposure using deep CNNs, GABRIEL EILERTSEN, JOEL KRONANDER, GYORGY DENES, RAFAŁ K. MANTIUK, JONAS UNGER. 
+* Classification Driven Dynamic Image Enhancement [[PDF]](https://arxiv.org/pdf/1710.07558.pdf)
+  *  Classification Driven Dynamic Image Enhancement, Vivek Sharma, Ali Diba, Davy Neven, Michael S. Brown, Luc Van Gool, and Rainer Stiefelhagen.
 
 ## 18 October
 * On Data-Driven Saak Transform [[PDF]](https://arxiv.org/pdf/1710.04176.pdf)
