@@ -1,6 +1,8 @@
 # Arxiv
 
 ## 23 October
+* GAN Face Transfer [[PDF]](https://arxiv.org/pdf/1710.06090.pdf)
+  *  Face Transfer with Generative Adversarial Network, Runze Xu, Zhiming Zhou, Weinan Zhang, Yong Yu.
 * Underwater Image Color Correction [[PDF]](https://arxiv.org/pdf/1710.07084.pdf)
   *  Emerging from Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer (IEEE SPL 2017), Chongyi Li, Jichang Guo, Chunle Guo.
 * HDR image reconstruction  [[PDF]](https://arxiv.org/pdf/1710.07480.pdf)
