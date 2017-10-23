@@ -2,7 +2,9 @@
 
 ## 23 October
 * Underwater Image Color Correction [[PDF]](https://arxiv.org/pdf/1710.07084.pdf)
-  *  Emerging from Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer, Chongyi Li, Jichang Guo, Chunle Guo.
+  *  Emerging from Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer (IEEE SPL 2017), Chongyi Li, Jichang Guo, Chunle Guo.
+* HDR image reconstruction  [[PDF]](https://arxiv.org/pdf/1710.07480.pdf)
+  *  HDR image reconstruction from a single exposure using deep CNNs, GABRIEL EILERTSEN, JOEL KRONANDER, GYORGY DENES, RAFAŁ K. MANTIUK, JONAS UNGER. 
 
 ## 18 October
 * On Data-Driven Saak Transform [[PDF]](https://arxiv.org/pdf/1710.04176.pdf)
