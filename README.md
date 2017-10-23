@@ -1,5 +1,9 @@
 # Arxiv
 
+## 23 October
+* Underwater Image Color Correction [[PDF]](https://arxiv.org/pdf/1710.07084.pdf)
+  *  Emerging from Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer, Chongyi Li, Jichang Guo, Chunle Guo.
+
 ## 18 October
 * On Data-Driven Saak Transform [[PDF]](https://arxiv.org/pdf/1710.04176.pdf)
   *  On Data-Driven Saak Transform , C.-C. Jay Kuo and Yueru Chen.
