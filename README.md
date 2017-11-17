@@ -1,6 +1,14 @@
 # Arxiv
 
 ## 23 October
+* GAN Face Transfer (AAAI 2018) [[PDF]](https://arxiv.org/pdf/1709.03919.pdf)
+  *  End-to-End United Video Dehazing and Detection, Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng.
+
+
+
+
+
+## 23 October
 * GAN Face Transfer [[PDF]](https://arxiv.org/pdf/1710.06090.pdf)
   *  Face Transfer with Generative Adversarial Network, Runze Xu, Zhiming Zhou, Weinan Zhang, Yong Yu.
 * Underwater Image Color Correction [[PDF]](https://arxiv.org/pdf/1710.07084.pdf)
