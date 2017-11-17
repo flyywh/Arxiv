@@ -11,7 +11,8 @@
   *  Global versus Localized Generative Adversarial Nets, Guo-Jun Qi, Liheng Zhang, Hao Hu.
 * Unsupervised road segmentation [[PDF]](Superpixel clustering with deep features for unsupervised road segmentation)
   *  Shunta Saito, Tommi Kerola, Satoshi Tsutsui, Superpixel clustering with deep features for unsupervised road segmentation.
-
+* Learning to Find Good Correspondences [[PDF]](https://arxiv.org/pdf/1711.05971.pdf)
+  *  Learning to Find Good Correspondences, Kwang Moo Yi et al.
 
 
 ## 23 October
