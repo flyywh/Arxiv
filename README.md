@@ -10,10 +10,11 @@
 * Global versus Localized GAN [[PDF]](https://arxiv.org/pdf/1711.06020.pdf)
   *  Global versus Localized Generative Adversarial Nets, Guo-Jun Qi, Liheng Zhang, Hao Hu.
 * Unsupervised road segmentation [[PDF]](Superpixel clustering with deep features for unsupervised road segmentation)
-  *  Shunta Saito, Tommi Kerola, Satoshi Tsutsui, Superpixel clustering with deep features for unsupervised road segmentation.
+  *  Superpixel clustering with deep features for unsupervised road segmentation, Shunta Saito, Tommi Kerola, Satoshi Tsutsui.
 * Learning to Find Good Correspondences [[PDF]](https://arxiv.org/pdf/1711.05971.pdf)
   *  Learning to Find Good Correspondences, Kwang Moo Yi et al.
-
+* FCTN FOR DOMAIN ADAPTATION [[PDF]](https://arxiv.org/pdf/1711.03694.pdf)
+  *  A FULLY CONVOLUTIONAL TRI-BRANCH NETWORK (FCTN) FOR DOMAIN ADAPTATION, Junting Zhang, Chen Liang and C.-C. Jay Kuo. 
 
 ## 23 October
 * GAN Face Transfer [[PDF]](https://arxiv.org/pdf/1710.06090.pdf)
