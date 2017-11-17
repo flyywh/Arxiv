@@ -1,7 +1,7 @@
 # Arxiv
 
 ## 23 October
-* GAN Face Transfer (AAAI 2018) [[PDF]](https://arxiv.org/pdf/1709.03919.pdf)
+* United Video Dehazing and Detection (AAAI 2018) [[PDF]](https://arxiv.org/pdf/1709.03919.pdf)
   *  End-to-End United Video Dehazing and Detection, Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng.
 
 
