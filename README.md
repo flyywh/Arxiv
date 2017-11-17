@@ -3,7 +3,7 @@
 ## 23 October
 * United Video Dehazing and Detection (AAAI 2018) [[PDF]](https://arxiv.org/pdf/1709.03919.pdf)
   *  End-to-End United Video Dehazing and Detection, Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng.
-* Interpretable R-CNN [[https://arxiv.org/pdf/1711.05226.pdf]]
+* Interpretable R-CNN [[PDF]](https://arxiv.org/pdf/1711.05226.pdf)
   *  Interpretable R-CNN, Tianfu Wu, Xilai Li, Xi Song, Wei Sun, Liang Dong and Bo Li.
   
 
