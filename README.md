@@ -1,14 +1,14 @@
 # Arxiv
 
-## 23 October
+## 17 November 
 * United Video Dehazing and Detection (AAAI 2018) [[PDF]](https://arxiv.org/pdf/1709.03919.pdf)
   *  End-to-End United Video Dehazing and Detection, Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng.
 * Interpretable R-CNN [[PDF]](https://arxiv.org/pdf/1711.05226.pdf)
   *  Interpretable R-CNN, Tianfu Wu, Xilai Li, Xi Song, Wei Sun, Liang Dong and Bo Li.
 * MGAN for Frame Interpolation [[PDF]](https://arxiv.org/pdf/1711.06045.pdf)
-  *  Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks
-
-
+  *  Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks, 
+* Global versus Localized GAN [[PDF]](https://arxiv.org/pdf/1711.06020.pdf)
+  *  Global versus Localized Generative Adversarial Nets, Guo-Jun Qi, Liheng Zhang, Hao Hu.
 
 ## 23 October
 * GAN Face Transfer [[PDF]](https://arxiv.org/pdf/1710.06090.pdf)
