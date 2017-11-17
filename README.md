@@ -24,7 +24,7 @@
 * Self-Supervised Intrinsic Image Decomposition [[PDF]](rin.csail.mit.edu)
   * Self-Supervised Intrinsic Image Decomposition, Michael Janner et al.
 *  Deep Inception-Residual Laplacian Pyramid Networks [[PDF]](https://arxiv.org/ftp/arxiv/papers/1711/1711.05431.pdf)
-  * Deep Inception-Residual Laplacian Pyramid Networks for Accurate Single Image Super-Resolution
+   * Deep Inception-Residual Laplacian Pyramid Networks for Accurate Single Image Super-Resolution
   
   
 ## 23 October
