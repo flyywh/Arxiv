@@ -5,7 +5,8 @@
   *  End-to-End United Video Dehazing and Detection, Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng.
 * Interpretable R-CNN [[PDF]](https://arxiv.org/pdf/1711.05226.pdf)
   *  Interpretable R-CNN, Tianfu Wu, Xilai Li, Xi Song, Wei Sun, Liang Dong and Bo Li.
-  
+* MGAN for Frame Interpolation [[PDF]](https://arxiv.org/pdf/1711.06045.pdf)
+  *  Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks
 
 
 
