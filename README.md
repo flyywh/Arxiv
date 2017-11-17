@@ -9,13 +9,24 @@
   *  Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks, 
 * Global versus Localized GAN [[PDF]](https://arxiv.org/pdf/1711.06020.pdf)
   *  Global versus Localized Generative Adversarial Nets, Guo-Jun Qi, Liheng Zhang, Hao Hu.
-* Unsupervised road segmentation [[PDF]](Superpixel clustering with deep features for unsupervised road segmentation)
+* Unsupervised road segmentation [[PDF]]()
   *  Superpixel clustering with deep features for unsupervised road segmentation, Shunta Saito, Tommi Kerola, Satoshi Tsutsui.
 * Learning to Find Good Correspondences [[PDF]](https://arxiv.org/pdf/1711.05971.pdf)
   *  Learning to Find Good Correspondences, Kwang Moo Yi et al.
 * FCTN FOR DOMAIN ADAPTATION [[PDF]](https://arxiv.org/pdf/1711.03694.pdf)
   *  A FULLY CONVOLUTIONAL TRI-BRANCH NETWORK (FCTN) FOR DOMAIN ADAPTATION, Junting Zhang, Chen Liang and C.-C. Jay Kuo. 
-
+* Occlusion Aware Unsupervised Learning of Optical Flow [[PDF]](https://arxiv.org/pdf/1711.05890.pdf)
+  *  Occlusion Aware Unsupervised Learning of Optical Flow, Yang Wang et al.
+* PackNet Multi-Task Learning [[PDF]](https://arxiv.org/pdf/1711.05769.pdf)
+  * PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning, Arun Mallya and Svetlana Lazebnik.
+* Class-Conditioned Deep Generative Models [[PDF]](https://arxiv.org/pdf/1711.05820.pdf)
+  * Zero-Shot Learning via Class-Conditioned Deep Generative Models, Wenlin Wang et al.
+* Self-Supervised Intrinsic Image Decomposition [[PDF]]()
+  * Self-Supervised Intrinsic Image Decomposition, Michael Janner et al.
+*  Deep Inception-Residual Laplacian Pyramid Networks [[PDF]](https://arxiv.org/ftp/arxiv/papers/1711/1711.05431.pdf)
+  * Deep Inception-Residual Laplacian Pyramid Networks for Accurate Single Image Super-Resolution
+  
+  
 ## 23 October
 * GAN Face Transfer [[PDF]](https://arxiv.org/pdf/1710.06090.pdf)
   *  Face Transfer with Generative Adversarial Network, Runze Xu, Zhiming Zhou, Weinan Zhang, Yong Yu.
