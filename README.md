@@ -9,6 +9,10 @@
   *  Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks, 
 * Global versus Localized GAN [[PDF]](https://arxiv.org/pdf/1711.06020.pdf)
   *  Global versus Localized Generative Adversarial Nets, Guo-Jun Qi, Liheng Zhang, Hao Hu.
+* Unsupervised road segmentation [[PDF]](Superpixel clustering with deep features for unsupervised road segmentation)
+  *  Shunta Saito, Tommi Kerola, Satoshi Tsutsui, Superpixel clustering with deep features for unsupervised road segmentation.
+
+
 
 ## 23 October
 * GAN Face Transfer [[PDF]](https://arxiv.org/pdf/1710.06090.pdf)
